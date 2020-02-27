@@ -120,6 +120,8 @@ var result2 = year.concat('/', month, '/', day, ' ', hour, ':', minute, ':', sec
 
 console.log(result);
 console.log(result2);
+console.log(year + month + day + hour + minute, second);
+
 
 // 10. 별찍기. 5를 입력하면
 //     *
